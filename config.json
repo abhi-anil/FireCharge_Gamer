@@ -1,0 +1,9 @@
+{
+	"ip":"megasurv76.aternos.me",
+	"port": "61828",
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (abhijeet)",
+	"login-cmd":"/login (abhijeet)"
+}
